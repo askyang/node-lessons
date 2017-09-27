@@ -1,0 +1,18 @@
+$size: 12px;
+$color: red;
+
+html{
+  font-size: $size;
+
+  section{
+    color: $color;
+    box-shadow: 3px 3px 3px #0000ed;
+    transition: width 2s;
+  }
+}
+
+@keyframes myfirst {
+  from {background: red;}
+  to {background: yellow;}
+}
+

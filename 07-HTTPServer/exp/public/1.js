@@ -1,0 +1,3 @@
+//public
+
+alert(1);

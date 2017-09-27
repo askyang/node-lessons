@@ -1,0 +1,19 @@
+html {
+  font-size: 12px; }
+  html section {
+    color: red;
+    box-shadow: 3px 3px 3px #0000ed;
+    -webkit-transition: width 2s;
+    transition: width 2s; }
+
+@-webkit-keyframes myfirst {
+  from {
+    background: red; }
+  to {
+    background: yellow; } }
+
+@keyframes myfirst {
+  from {
+    background: red; }
+  to {
+    background: yellow; } }

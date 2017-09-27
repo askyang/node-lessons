@@ -1,0 +1,16 @@
+{
+  "name": "workflow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app/main.js",
+  "scripts": {
+    "dev": "webpack-dev-server --devtool eval --progress --colors --content-base build"
+  },
+  "author": "sunluyong@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "jsx-loader": "^0.13.2",
+    "webpack": "^1.13.0",
+    "webpack-dev-server": "^1.14.1"
+  }
+}

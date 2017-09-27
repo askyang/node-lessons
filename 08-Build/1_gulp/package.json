@@ -1,0 +1,24 @@
+{
+  "name": "1_gulp",
+  "version": "1.0.0",
+  "description": "gulp demo",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "sunluyong@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "~0.20.0",
+    "clean-css": "~3.4.12",
+    "gulp": "~3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-less": "~3.0.5",
+    "html-minifier": "~1.5.0",
+    "through2": "~2.0.1",
+    "uglify-js": "~2.6.2"
+  }
+}
